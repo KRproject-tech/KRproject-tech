@@ -19,3 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="60"/>
 <p>
+
+
+**ほげほげ**
+組み込み志向強いけど数値解析はMATLAB🐥
