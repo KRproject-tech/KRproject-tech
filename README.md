@@ -23,5 +23,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60"/>
 <p>
 
+## About My GitHub
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KRproject-tech)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
